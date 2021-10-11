@@ -512,17 +512,18 @@ p {
 .deal {
   background-image: linear-gradient(to right, rgb(12, 52, 146), rgb(5, 21, 58));
   line-height: 25px;
-  color: lightblue;
+  color: rgb(228, 96, 35);
   padding: 1rem;
   margin: 1rem;
   border-radius: 40px 5px;
+  transform: translate(5px, 5px);
 }
 
 .title {
-  color: lightblue;
+  color: rgb(137, 219, 13);
 }
 .link {
-  color: lightblue;
+  color: rgb(236, 236, 15);
 }
 
 #game-image{
